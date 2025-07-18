@@ -24,29 +24,29 @@ Template lengkap untuk web scraping dengan Python yang mencakup berbagai jenis w
 
 ### **5 Template Scraper Lengkap:**
 
-1. ** Blog Scraper** (`blog_scraper.py`)
+1. **Blog Scraper** (`blog_scraper.py`)
    - Scraping artikel dan blog posts
    - Support pagination
    - Extract metadata (author, date, tags)
 
-2. ** E-commerce Scraper** (`ecommerce_scraper.py`)
+2. **E-commerce Scraper** (`ecommerce_scraper.py`)
    - Product search dan listing
    - Price, rating, reviews extraction
    - Product detail scraping
 
-3. ** News Scraper** (`news_scraper.py`)
+3. **News Scraper** (`news_scraper.py`)
    - News article scraping
    - Multi-category support
    - RSS feed support
    - Sentiment analysis (optional)
 
-4. ** Dynamic Scraper** (`dynamic_scraper.py`)
+4. **Dynamic Scraper** (`dynamic_scraper.py`)
    - JavaScript-heavy websites
    - Selenium WebDriver
    - Infinite scroll handling
    - SPA (Single Page Application) support
 
-5. ** API Scraper** (`api_scraper.py`)
+5. **API Scraper** (`api_scraper.py`)
    - Internal API endpoints
    - AJAX/Fetch request handling
    - WordPress REST API
@@ -54,12 +54,12 @@ Template lengkap untuk web scraping dengan Python yang mencakup berbagai jenis w
 
 ###  **Utility Functions:**
 
-- ** robots.txt checker**
-- ** Page structure analyzer**
-- ** CSS selector generator**
-- **️ Scraping time estimator**
-- ** User agent rotation**
-- ** Multiple output formats**
+- **robots.txt checker**
+- **Page structure analyzer**
+- **CSS selector generator**
+- **️Scraping time estimator**
+- **User agent rotation**
+- **Multiple output formats**
 
 ##  **Quick Start**
 
